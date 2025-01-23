@@ -1,7 +1,7 @@
 //↓↓↓↓↓↓↓↓↓↓↓↓TROUBLESHOOT the code  below here↓↓↓↓↓↓↓↓↓↓↓↓
 const mySuperNeatoObject = {
     type: "gadget",
-    hasWiFi: false,
+    hasWiFi: false
     }
 
 
