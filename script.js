@@ -1,11 +1,13 @@
-//↓↓↓↓↓↓↓↓↓↓↓↓YOUR CODE goes below here↓↓↓↓↓↓↓↓↓↓↓↓
+//↓↓↓↓↓↓↓↓↓↓↓↓TROUBLESHOOT the code  below here↓↓↓↓↓↓↓↓↓↓↓↓
+const mySuperNeatoObject = {
+    type: "gadget",
+    hasWiFi: false,
+    }
 
-let song = {
-    title: "Apple",
-    album: "Brat",
-    releaseDate: "2024",
-    isAvailable: false
-    
-}
 
-//↑↑↑↑↑↑↑↑↑↑YOUR CODE goes above here↑↑↑↑↑↑↑↑↑↑
+//↑↑↑↑↑↑↑↑↑↑TROUBLESHOOT the code above here↑↑↑↑↑↑↑↑↑↑
+//Do not edit below this comment!
+
+
+
+
